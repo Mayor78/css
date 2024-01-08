@@ -1,0 +1,30 @@
+a{
+    font-size: 18px;
+    color: tomato;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    color: purple;
+}
+
+footer{
+    width: 100%;
+            height: 100%;
+            background-color: whitesmoke;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+}
+p:hover{
+    background-attachment: fixed;
+   color: red;
+   font-weight: bolder;
+}
+p{
+    font-size: large;
+    color: blue;
+}
